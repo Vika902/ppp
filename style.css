@@ -1,0 +1,31 @@
+
+.left{
+background-color: #DA70D6;
+margin-right: 71em;
+padding-top: 32em;
+color:#DA70D6;
+display: flex;
+color:#DA70D6;
+}
+footer{
+    background-color: #EE82EE;
+    padding-top: 2em;
+    color: #EE82EE;
+    display: flex;
+}
+.right{
+    margin-left: 100px;
+    background-color: #DDA0DD;
+    padding-bottom: 20px;
+    margin-bottom: -87px;
+    color:#DA70D6;
+    display:flex;
+}
+.top{
+    background-color: #8B008B;
+    margin-left: 355px;
+    padding-right:1128px;
+    display: flex;
+    margin-top: -26.6em;
+    color:#8B008B;
+}
