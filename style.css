@@ -1,7 +1,7 @@
 
 .left{
 background-color: #DA70D6;
-margin-right: 71em;
+margin-left: 71em;
 padding-top: 32em;
 color:#DA70D6;
 display: flex;
@@ -14,16 +14,15 @@ footer{
     display: flex;
 }
 .right{
-    margin-left: 100px;
     background-color: #DDA0DD;
     padding-bottom: 20px;
     margin-bottom: -87px;
-    color:#DA70D6;
+    color:#DDA0DD;
     display:flex;
 }
 .top{
     background-color: #8B008B;
-    margin-left: 355px;
+    margin-left:-1148px;
     padding-right:1128px;
     display: flex;
     margin-top: -26.6em;
